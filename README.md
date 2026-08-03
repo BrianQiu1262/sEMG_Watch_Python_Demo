@@ -1,7 +1,7 @@
 # sEMG_Watch_Python_Demo
 Python demo including data preprocessing, model training, and realtime model inference.
 
-File Structure as follow:
+File structure as follow:
 ```
   /MODEL/
     └── model.pkl (trained model)
