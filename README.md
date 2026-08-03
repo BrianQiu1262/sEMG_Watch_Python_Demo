@@ -2,15 +2,18 @@
 Python demo including data preprocessing, model training, and realtime model inference.
 
 >MODEL
->>model.pkl
+>>model.pkl (trained model)
 
 >DATA
->>1
->>2
->>3
->>4
+>>1 (data of gesture 1)
 
->RAW
+>>2 (data of gesture 2)
+
+>>3 (data of gesture 3)
+
+>>4 (data of gesture 4)
+
+>RAW (raw data before preprocessing)
 
 >data_preprocessing.py
 
