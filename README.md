@@ -1,6 +1,7 @@
 # sEMG_Watch_Python_Demo
 Python demo including data preprocessing, model training, and realtime model inference.
 
+File Structure as follow:
 ```
   /MODEL/
   ├── model.pkl (trained model)
@@ -18,10 +19,11 @@ Python demo including data preprocessing, model training, and realtime model inf
   
   /RAW/ (raw data before preprocessing)
   ├── data_1_6.csv (raw data of gesture 1)
+
+  data_preprocessing.py (data preprocessing and feature extration)
+
+  inference_demo.py (realtime model inference demo)
+  
+  model_train.py (model training and saving)
  ```
 
-data_preprocessing.py
-  
-inference_demo.py
-  
-model_train.py
