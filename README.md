@@ -21,10 +21,18 @@ Python demo including data preprocessing, model training, and realtime model inf
     ├── data_1_6.csv (raw data of gesture 1)
     └── ...
 
-  /data_preprocessing.py (data preprocessing and feature extration)
+  /data_preprocessing.py
 
-  /inference_demo.py (realtime model inference demo)
+  /inference_demo.py
   
-  /model_train.py (model training and saving)
+  /model_train.py
  ```
 
+## data_preprocessing.py
+data preprocessing and feature extration
+
+## inference_demo.py
+realtime model inference demo
+
+## model_train.py
+model training and saving
