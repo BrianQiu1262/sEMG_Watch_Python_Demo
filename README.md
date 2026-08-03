@@ -29,10 +29,10 @@ Python demo including data preprocessing, model training, and realtime model inf
  ```
 
 ## data_preprocessing.py
-data preprocessing and feature extration
+Data preprocessing and feature extration.
 
 ## inference_demo.py
-realtime model inference demo
+Realtime model inference demo.
 
 ## model_train.py
-model training and saving
+Model training and saving.
