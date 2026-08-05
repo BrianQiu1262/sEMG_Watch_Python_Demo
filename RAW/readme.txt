@@ -1,0 +1,3 @@
+  /RAW/ (raw data before preprocessing)
+    ├── data_1_6.csv (raw data of gesture 1)
+    └── ...
